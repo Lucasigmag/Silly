@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+    text-align: center;
+    background-image: url(img/descarga.jpg);
+}
+
+h1{
+    text-shadow: palevioletred 5px 5px;
+    color: indigo;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    opacity: 0;
+}
+
+img:hover{
+    opacity: 1;
+}
+
+span{
+    font-size: 250%;
+    color: purple;
+}
